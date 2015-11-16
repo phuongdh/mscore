@@ -1,0 +1,11 @@
+{
+  "app": "Application name",
+  "page1": {
+    "title": "Page 1",
+    "subTitle": "Sub title"
+  },
+  "page2": {
+    "title": "Page 2",
+    "subTitle": "Sub title"
+  }
+}
